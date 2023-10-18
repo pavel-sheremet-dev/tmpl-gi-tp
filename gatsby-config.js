@@ -68,6 +68,7 @@ module.exports = {
     `gatsby-plugin-anchor-links`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-image`,
+    `gatsby-plugin-netlify`,
     {
       resolve: 'gatsby-plugin-react-svg',
       options: {
